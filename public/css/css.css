@@ -1,0 +1,67 @@
+.homeyou{
+    text-align: center;
+    color: hsl(25deg 100% 50%);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.home{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #f97f00;
+    color: white;
+    height: 94px;
+}
+.topheader{
+    background: #f97f00;
+}
+.chuhome{
+    color: white;
+}
+.khungtron{
+    background: white;
+    border-radius: 30%;
+    padding: 8%;
+}.end{
+    background: #22a228;
+}
+.hinh{
+    border: dashed 2px;
+}
+.chumau2{
+    color:#f9871e;
+}
+.khung1{
+    text-align: center;
+    display: inline-block;
+    background: paleturquoise;
+    color: red;
+    border: 1px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 12px;
+    padding: 10px 100px;
+}
+.mot{
+    background-color: white;
+}
+.navbar{
+    height: 92px;
+    padding-bottom: 9px;
+}
+.fa-home{
+    color: #ffffff;
+}
+.fa-star{
+    color:#f97f00;
+}
+.fa-utensils{
+    color: #f97f00;
+}
+.fa-coffee{
+    color: #f97f00;
+}
+.fa-envelope{
+    color: #f97f00;
+}
